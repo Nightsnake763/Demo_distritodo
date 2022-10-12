@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: rgb(118, 94, 252);
+    height: 80px !important;
+    user-select: none;
+}
+.title {
+    color: white;
+    text-decoration: none !important;
+}
+.title:hover {
+    color: lightgrey;
+}
+.icon {
+    font-size: 3em;
+    color: white;
+}
+.icon:hover {
+    color: lightgray;
+}

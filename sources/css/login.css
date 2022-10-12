@@ -1,0 +1,36 @@
+* {
+    color: white;
+}
+body {
+    max-height: 100vh;
+    max-width: 100%;
+    background-color: rgb(73, 108, 141);
+}
+.button {
+    padding: 5px 50px;
+    border-radius: 50px;
+    margin-left: 15%;
+    text-align:  center;
+    background: rgb(46, 189, 236);
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+#buttons {
+    display: block;
+    text-align: center;
+    justify-content: center;
+}
+h1 {
+    margin-top: 15%;
+    display: block;
+    text-align: center;
+    font-size: 5rem;
+}
+input {
+    border-radius: 10px;
+    display: block;
+    margin: 15px auto;
+    width: 30%;
+    font-size: 2rem;
+    color: black;
+}
