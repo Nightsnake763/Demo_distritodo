@@ -21,3 +21,12 @@ nav {
 .icon:hover {
     color: lightgray;
 }
+.receipt {
+    background-color: lightcyan;
+    border-radius: 50px;
+}
+.order {
+    background-color: whitesmoke;
+    border-radius: 50px;
+    user-select: none;
+}
